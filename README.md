@@ -1,8 +1,5 @@
 # 5245093\_B.Nikhitha
 
 
-
-<img src="https://raw.githubusercontent.com/nikhithabheemreddy/5245093\_B.Nikhitha/main/SDLC/Great%20Learning\_course.jpg" alt="Great Learning Certificate" width="400"/>
-
-
+<img src="https://github.com/nikhithabheemreddy/5245093_B.Nikhitha/blob/main/SDLC/Great%20Learning_course.jpg" alt="image">
 
