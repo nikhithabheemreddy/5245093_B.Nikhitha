@@ -1,0 +1,35 @@
+#include<stdio.h>
+#include<ctype.h>
+int main()
+{
+    char s[1000];
+    fgets(s,sizeof(s),stdin);
+    int count[26]={0};
+    
+    for(int i=0;s[i]!='\0';i++)
+    {
+        char ch = tolower(s[i]);
+        if(ch>='a'&&ch<='z')
+        {
+            count[ch-'a'] = 1;
+        }
+    }
+    int ispangram = 1;
+    for(int i=0;i<26;i++)
+    {
+        if(count[i]==0)
+        {
+            ispangram=0;
+            break;
+        }
+    }
+    if(ispangram==1)
+    {
+        printf("pangram\n");
+    }
+    else
+    {
+        printf("not pangram\n");
+    }
+    return 0;
+}
