@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 welcome to LTTS
 This is Nikhitha
 Telangana
-=======
-Hello World
-Login feature code
-Profile page code
->>>>>>> master
