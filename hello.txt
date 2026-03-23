@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-night
-hello everyone
-=======
 hello
 hey 
 how are you?
 LTTS
->>>>>>> master
